@@ -1,1 +1,1 @@
-# Supervised_ML_Assignments
+# MachineLearning_Assignments
